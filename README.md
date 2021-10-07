@@ -1,4 +1,4 @@
-# cs1430_final_project
+# GANime
 Computer Vision Final Project: GANime
 
 We implemented and compared three different General Adversarial Networks (Deep Convolutional, Least Squares, Wasserstein) to generate the best anime faces.
